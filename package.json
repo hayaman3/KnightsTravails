@@ -1,0 +1,19 @@
+{
+  "name": "knightstravails",
+  "version": "1.0.0",
+  "description": "KnightsTravails Application Project for https://www.theodinproject.com/lessons/javascript-knights-travails",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayaman3/KnightsTravails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayaman3/KnightsTravails/issues"
+  },
+  "homepage": "https://github.com/hayaman3/KnightsTravails#readme"
+}
